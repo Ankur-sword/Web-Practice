@@ -1,0 +1,23 @@
+.bac{
+    margin: 10px;
+    padding: 15px;
+    background-color: #D9D7F1;
+}
+.header{
+    text-align: center;
+}
+.sectiontwo{
+    padding: 5px;
+    border:solid 1px #FFFDDE;
+}
+img{
+    border-radius: 50%;
+}
+article{
+    text-align: center;
+    border:solid #FFFDDE;
+    
+}
+article p{
+    background-color:  #D9D7;
+}
